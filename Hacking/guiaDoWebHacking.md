@@ -56,7 +56,7 @@ Antes de tudo, é preciso ter determinação. É necessário saber buscar inform
 
 É importante possuir um conhecimento sólido em programação e desenvolvimento web. Se você já trabalha como programador há algum tempo, não terá grandes dificuldades. Caso não tenha experiência, aqui estão algumas instruções para começar:
 
-Tenha uma base sólida em HTML, CSS e Javascript, que são os fundamentos de um website comum. É essencial aprender a estrutura e padronização dessas linguagens para identificar possíveis vulnerabilidades. Além disso, é importante ter conhecimentos em servidores (Back-end), sendo o PHP e o ambiente Javascript NodeJS os mais populares.
+Tenha uma base sólida em HTML, CSS e Javascript, que são os fundamentos de um website comum. É essencial aprender a estrutura e padronização dessas linguagens para identificar possíveis vulnerabilidades. Além disso, é importante ter conhecimentos em servidores (Back-end), sendo o PHP e o ambiente Javascript NodeJS os mais populares, ter noções sobre SQL/NoSQL ajuda também.
 
 ### 1.3 Redes
 

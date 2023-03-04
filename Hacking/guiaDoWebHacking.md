@@ -1,5 +1,3 @@
-# Começando no Web hacking
-
 # Introdução
 
 Há bastante incerteza aqui em relação à entrada na área ou tópico específico, então elaborei um breve "guia" para ajudar.
